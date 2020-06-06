@@ -29,7 +29,7 @@
     "@types/node": "12.12.12",
     "@typescript-eslint/eslint-plugin": "2.8.0",
     "@typescript-eslint/parser": "2.8.0",
-    "apollo-server-express": "2.9.12",
+    "apollo-server-express": "2.14.2",
     "aws-sdk": "2.578.0",
     "eslint": "6.7.0",
     "eslint-config-prettier": "6.7.0",
