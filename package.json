@@ -44,7 +44,7 @@
     "release-it": "12.4.3",
     "semver": "6.3.0",
     "serverless": "1.58.0",
-    "serverless-offline": "5.12.0",
+    "serverless-offline": "12.0.3",
     "ts-node-dev": "1.0.0-pre.44",
     "ttab": "0.6.1",
     "typescript": "3.7.2"
